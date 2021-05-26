@@ -1,3 +1,3 @@
 export default {
-    SECRET: 'auth-api'
+    SECRET_WORD: 'auth-api'
 }
